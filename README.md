@@ -1,5 +1,5 @@
 This is my first Git repository
 <br>
-Hello World
+hello World
 <br>
 Author: Nasir
