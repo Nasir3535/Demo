@@ -1,4 +1,4 @@
-This is my First Git Repository
+This is My First Git Repository
 <br>
 Hello World
 <br>
